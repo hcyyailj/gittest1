@@ -1,4 +1,4 @@
 # gittest1
 this is a test repository
-master change this
-master change this again
+add a new branch
+change by dev
